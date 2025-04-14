@@ -1,0 +1,3 @@
+empid,name,address,contact_number,spouse_name,number_of_children,salary
+E1001,John Smith,"123 Main St, New York",555-0101,Jane Smith,2,75000.0
+E1002,Sarah Johnson,"456 Oak Ave, Boston",555-0202,Mike Johnson,1,82000.0
